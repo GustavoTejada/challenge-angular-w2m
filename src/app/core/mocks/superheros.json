@@ -1,0 +1,124 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Spider-Man",
+      "alias": "Peter Parker",
+      "power": "Spider-like abilities, superhuman strength and agility, web-slinging",
+      "team": "Avengers",
+      "first_appearance": "Amazing Fantasy #15 (August 1962)"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alias": "Clark Kent",
+      "power": "Superhuman strength, speed, agility, and senses, flight, heat vision, freezing breath",
+      "team": "Justice League",
+      "first_appearance": "Action Comics #1 (June 1938)"
+    },
+    {
+      "id": 3,
+      "name": "Batman",
+      "alias": "Bruce Wayne",
+      "power": "Peak physical and mental conditioning, martial arts mastery, advanced technology",
+      "team": "Justice League",
+      "first_appearance": "Detective Comics #27 (May 1939)"
+    },
+    {
+      "id": 4,
+      "name": "Wonder Woman",
+      "alias": "Diana Prince",
+      "power": "Superhuman strength, agility, and durability, flight, lasso of truth, bulletproof bracelets",
+      "team": "Justice League",
+      "first_appearance": "All Star Comics #8 (December 1941)"
+    },
+    {
+      "id": 5,
+      "name": "Iron Man",
+      "alias": "Tony Stark",
+      "power": "Powered suit of armor providing flight, strength, energy blasts, advanced technology",
+      "team": "Avengers",
+      "first_appearance": "Tales of Suspense #39 (March 1963)"
+    },
+    {
+      "id": 6,
+      "name": "Captain America",
+      "alias": "Steve Rogers",
+      "power": "Peak human strength, agility, and endurance, indestructible shield",
+      "team": "Avengers",
+      "first_appearance": "Captain America Comics #1 (March 1941)"
+    },
+    {
+      "id": 7,
+      "name": "Thor",
+      "alias": "Thor Odinson",
+      "power": "Superhuman strength, durability, and stamina, control over lightning and storms, flight",
+      "team": "Avengers",
+      "first_appearance": "Journey into Mystery #83 (August 1962)"
+    },
+    {
+      "id": 8,
+      "name": "Hulk",
+      "alias": "Bruce Banner",
+      "power": "Superhuman strength and durability, increased healing factor, gamma radiation manipulation",
+      "team": "Avengers",
+      "first_appearance": "The Incredible Hulk #1 (May 1962)"
+    },
+    {
+      "id": 9,
+      "name": "Flash",
+      "alias": "Barry Allen",
+      "power": "Superhuman speed, agility, and reflexes, time travel, phasing through objects",
+      "team": "Justice League",
+      "first_appearance": "Showcase #4 (October 1956)"
+    },
+    {
+      "id": 10,
+      "name": "Green Lantern",
+      "alias": "Hal Jordan",
+      "power": "Ability to create constructs out of green energy, flight, force fields",
+      "team": "Justice League",
+      "first_appearance": "Showcase #22 (October 1959)"
+    },
+    {
+      "id": 11,
+      "name": "The Flash",
+      "alias": "Wally West",
+      "power": "Superhuman speed, agility, and reflexes, time travel, phasing through objects",
+      "team": "Justice League",
+      "first_appearance": "The Flash #110 (1959)"
+    },
+    {
+      "id": 12,
+      "name": "Aquaman",
+      "alias": "Arthur Curry",
+      "power": "Superhuman strength and durability, telepathic control over marine life, underwater breathing and adaptation",
+      "team": "Justice League",
+      "first_appearance": "More Fun Comics #73 (November 1941)"
+    },
+    {
+      "id": 13,
+      "name": "Green Arrow",
+      "alias": "Oliver Queen",
+      "power": "Master archer, expert martial artist, peak human physical condition",
+      "team": "Justice League",
+      "first_appearance": "More Fun Comics #73 (November 1941)"
+    },
+    {
+      "id": 14,
+      "name": "Black Panther",
+      "alias": "T'Challa",
+      "power": "Enhanced strength, agility, and senses, expert martial artist, access to advanced Wakandan technology",
+      "team": "Avengers",
+      "first_appearance": "Fantastic Four #52 (July 1966)"
+    },
+    {
+      "id": 15,
+      "name": "Doctor Strange",
+      "alias": "Stephen Strange",
+      "power": "Mastery of mystic arts, reality manipulation, interdimensional travel",
+      "team": "Defenders",
+      "first_appearance": "Strange Tales #110 (July 1963)"
+    }
+  ]
+}

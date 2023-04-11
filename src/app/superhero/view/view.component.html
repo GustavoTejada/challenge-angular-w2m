@@ -1,0 +1,24 @@
+<div class="py-3 px-3">
+  <h2>Superhero detail</h2>
+  <mat-list>
+    <mat-list-item>
+      <h4 matLine>Name: {{data.name}}</h4>
+    </mat-list-item>
+    <mat-list-item>
+      <h4 matLine>Alias: {{data.alias}}</h4>
+    </mat-list-item>
+    <mat-list-item>
+      <h4 matLine>Power: {{data.power}}</h4>
+    </mat-list-item>
+    <mat-list-item>
+      <h4 matLine>First Appearance: {{data.first_appearance}}</h4>
+    </mat-list-item>
+    <mat-list-item>
+      <h4 matLine>Team: {{data.team}}</h4>
+    </mat-list-item>
+  </mat-list>
+  <div mat-dialog-actions align="end">
+    <button mat-raised-button color="primary" (click)="closeDialog()">Close</button>
+  </div>
+</div>
+

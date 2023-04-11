@@ -1,0 +1,8 @@
+<div class="py-3 px-3">
+  <h2>{{data.title}}</h2>
+  <p>{{data.message}}</p>
+  <div mat-dialog-actions align="end">
+    <button mat-raised-button color="secondary" type="button" (click)="onCancel()">{{data.cancel}}</button>
+    <button mat-raised-button color="primary" type="button" (click)="onConfirm()">{{data.confirm}}</button>
+  </div>
+</div>
