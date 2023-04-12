@@ -49,10 +49,11 @@ export class ListComponent {
   }
 
   viewSuperhero(id: number){
-    let selectedHero = this.listToShow.data.find((superhero) => superhero.id === id);
-    let dialogRef: MatDialogRef<ViewComponent> = this.dialog.open(ViewComponent, {
-      width: '500px',
-      data: selectedHero
+    this.superheroService.getOne(id).subscribe((superhero) => {
+      let dialogRef: MatDialogRef<ViewComponent> = this.dialog.open(ViewComponent, {
+        width: '500px',
+        data: superhero
+      });
     });
   }
 
