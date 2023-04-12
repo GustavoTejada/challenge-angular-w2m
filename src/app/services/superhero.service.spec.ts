@@ -21,6 +21,12 @@ describe('SuperheroService', () => {
     })
   } );
 
+  it('should return one superhero', () => {
+    service.getOne(2).subscribe((superheroes) => {
+      expect(superheroes).toBeTruthy();
+    })
+  });
+
   it('should return a list of superheroes with the name searched', () => {
     service.searchForSuperheroName('batman').subscribe((superheroes) => {
       expect(superheroes).toBeTruthy();
